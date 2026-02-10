@@ -293,7 +293,6 @@ sistema_frutas.exe
 
 ## 🎮 Uso do Sistema
 
-### Configuração Inicial
 
 Ao iniciar, o sistema permite configurar interativamente as capacidades e tempos de execução.
 
@@ -324,3 +323,4 @@ Ao iniciar, o sistema permite configurar interativamente as capacidades e tempos
 
 Acamedic project developed for the Operating Systems course. Educational use permitted.
 Projeto acadêmico desenvolvido para a disciplina de Sistemas Operacionais. Uso educacional permitido.
+
